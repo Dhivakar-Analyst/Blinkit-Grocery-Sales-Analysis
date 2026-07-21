@@ -137,5 +137,3 @@ Hi, I'm **Dhivakar**, an aspiring **Data Analyst** passionate about transforming
 - **LinkedIn:** *(Add your LinkedIn profile here)*
 
 ---
-
-## ⭐ If you found this project helpful, please consider giving it a Star!
