@@ -1,4 +1,9 @@
 # 🛒 Blinkit Sales Dashboard | Microsoft Excel
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Project-Interactive%20Dashboard-blue?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Skills-Data%20Analysis-orange?style=for-the-badge)
+
+---
 
 ## 📌 Project Overview
 
