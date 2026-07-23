@@ -134,6 +134,6 @@ Hi, I'm **Dhivakar**, an aspiring **Data Analyst** passionate about transforming
 ## 📬 Connect With Me
 
 - **GitHub:** https://github.com/Dhivakar-Analyst
-- **LinkedIn:** *(Add your LinkedIn profile here)*
+- **LinkedIn:** https://www.linkedin.com/in/dhivakar-analyst
 
 ---
